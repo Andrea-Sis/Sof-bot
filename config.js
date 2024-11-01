@@ -10,10 +10,10 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['584123989549', 'Anuar⁩', true],
-  ['584123989549'],
-  ['584123989549'],
-  ['584123989549'],
+  ['50765609370', '𝑺𝑶𝑭𝑰', true],
+  ['584123989549', 'Sisked', true],
+  ['50765609370'],
+  ['50765609370'],
   ['584123989549']
 ]
 
@@ -24,12 +24,12 @@ global.prems = []
    
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻 - 𝑴𝑫`
-global.author = '{\n "bot": {\n   "name": "𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻 - 𝑴𝑫",\n     "author": "Anuar",\n   "status_bot": "active"\n }\n}'
-global.wait = '𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻 - 𝑴𝑫'
-global.botname = '𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻 - 𝑴𝑫'
-global.textbot = `Super Bot De WhatsApp ⭐`
-global.listo = 'Completado ✯'
+global.packname = `𝑺𝑶𝑭𝑰 - 𝑩𝑶𝑻`
+global.author = '{\n "bot": {\n   "name": "𝑺𝑶𝑭𝑰 - 𝑩𝑶𝑻",\n     "author": "𝑺𝑶𝑭𝑰",\n   "status_bot": "active"\n }\n}'
+global.wait = '𝑺𝑶𝑭𝑰 - 𝑩𝑶𝑻'
+global.botname = '𝑺𝑶𝑭𝑰 - 𝑩𝑶𝑻'
+global.textbot = `WhatsApp Bot Sofi 👸🏻`
+global.listo = 'Finalizado ✯'
 global.namechannel = '𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻'
 global.baileys = '@whiskeysockets/baileys'
 
@@ -41,7 +41,7 @@ global.miniurl = fs.readFileSync('./storage/img/siskedurl.jpg')
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.group = 'https://chat.whatsapp.com/JultL94aPtb5AzIeeuDvpX'
-global.canal = 'https://whatsapp.com/channel/0029Vak6H9l3GJP4FJH5063R'
+global.canal = 'https://whatsapp.com/channel/0029VamyjBXJuyACXCuuHm3l'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
